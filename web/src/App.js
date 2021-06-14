@@ -40,12 +40,14 @@ function App() {
         </div>
         <div className='row' >
           <div className='col-12'>
+            <div style={{ height: '250px', overflowY: 'scroll' }}>
             {chat.map((payload, index) => {
               return (
                 <h3>{payload.userName}: <span>{payload.message}</span></h3>
               )
             })}
           </div>
+         </div>
         </div>
 
       </div>
