@@ -1,6 +1,6 @@
 ## NETLIFY DEMO
 
-[NETLIFY DEMO - CLICK ](https://60c6a5c50fdc7e5a37313bc7--chat-oguzcanuzunoner.netlify.app/)
+[NETLIFY DEMO - CLICK ](https://60c766dd61cb7cca5b5254c3--chat-oguzcanuzunoner.netlify.app/)
 
 # Canlı Chat Uygulaması
 
